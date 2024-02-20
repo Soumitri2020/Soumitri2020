@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Soumitri
 - 👀 I’m interested in automation 
 - 🌱 I’m currently learning ... Terraform and Docker
-- 💞️ I’m looking to collaborate on ...DevOps ->> CICD , Ansible , Terrafprm . AWS 
+- 💞️ I’m looking to collaborate on ...DevOps ->> CICD , Ansible , Terraform , Docker, Git, Github, Gitlab, Kubernates. OS -Linux.Scripting - Bash and Python. Cloud- AWS , Azure and GCP 
 - 📫 How to reach me 82984001
 - 😄 Pronouns: ...soomitriiii...
 - ⚡ Fun fact: ... cant tell in one word , you have to pick it out :P 
